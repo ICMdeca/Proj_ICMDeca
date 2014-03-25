@@ -15,10 +15,12 @@ ICM
 <li>Rui Azevedo</li>
 <li>Ricardo Lucas</li>
 </ul>
-<ul>
+
 DECA
+<ul>
 <li>Tânia Barros</li>
 <li>João Nogueira</li>
 <li>Paulo Pannuzzo</li>
 </ul>
+
 APK install instructions: just copy and click it to install..
